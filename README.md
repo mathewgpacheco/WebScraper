@@ -1,6 +1,6 @@
 # WebScraper
 
-Practicing webscraping quotes off a website: http://quotes.toscrape.com .
+Practice webscraping quotes off a website: http://quotes.toscrape.com .
 
 Demo:
 
